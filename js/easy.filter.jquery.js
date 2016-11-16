@@ -1,11 +1,3 @@
-$(document).ready(function() {
-
-	$('[data-filter]').easyFilter({
-		overlay: true,
-		loadingSpeed: 2000  
-	});
-
-});
 /**
 
  * jQuery easyFilter
